@@ -6,7 +6,7 @@
 #define CNCA_CLIENT_H
 
 
-class client {
+class Client {
 
 };
 

@@ -1,8 +1,25 @@
 #include <iostream>
-#include <boost/array.hpp>
-#include <boost/asio.hpp>
+#include <string>
+#include <boost/version.hpp>
+#include <iostream>
+#include "Server.h"
+#include "Message.h"
+#include "Client.h"
+#include <boost/thread.hpp>
+#include <boost/thread/scoped_thread.hpp>
+#include <boost/chrono.hpp>
 
-int main() {
-    std::cout << "Hello World!";
+void wait(int seconds)
+{
+}
+
+void thread()
+{
+
+}
+
+int main()
+{
+
     return 0;
 }

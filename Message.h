@@ -6,7 +6,7 @@
 #define CNCA_MESSAGE_H
 
 
-class message {
+class Message {
 
 };
 

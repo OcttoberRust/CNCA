@@ -6,7 +6,7 @@
 #define CNCA_SERVER_H
 
 
-class server {
+class Server {
 
 };
 
